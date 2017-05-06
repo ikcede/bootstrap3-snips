@@ -1,10 +1,9 @@
 {
   "name": "bootstrap3-snips",
   "main": "./lib/bootstrap3-snips",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Snippets for Twitter Bootstrap 3, with some accessibility features included.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "bootstrap3-snips:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
