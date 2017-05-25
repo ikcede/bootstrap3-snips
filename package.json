@@ -1,19 +1,18 @@
 {
   "name": "bootstrap3-snips",
   "main": "./lib/bootstrap3-snips",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Snippets for Twitter Bootstrap 3, with some accessibility features included.",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "bootstrap3-snips:toggle"
-  },
   "keywords": [
     "snippets",
     "bootstrap",
     "bootstrap3",
     "aria",
-    "accessibility"  
+    "accessibility"
   ],
+  "activationCommands": {
+    "atom-workspace": "bootstrap3-snips:toggle"
+  },
   "repository": "https://github.com/ikcede/bootstrap3-snips",
   "license": "MIT",
   "engines": {
